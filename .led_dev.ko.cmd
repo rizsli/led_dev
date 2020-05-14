@@ -1,0 +1,1 @@
+cmd_/home/book/Desktop/imx_wksps/dev-wksps/leddev/led_dev.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/book/Desktop/imx_wksps/dev-wksps/leddev/led_dev.ko /home/book/Desktop/imx_wksps/dev-wksps/leddev/led_dev.o /home/book/Desktop/imx_wksps/dev-wksps/leddev/led_dev.mod.o ;  true
